@@ -7,3 +7,7 @@
 3) **30 Almighty Alpacas**. Top 30 P&E.
 4) **DFL tokens**: Top 100 of P&E leaderboard and Top of 50 F2P leaderboard, in total 32M Dfl vested
 
+
+## Season 2 Rewards
+ 1. Top 50 F2P Leaderboard 2M DFL Vested.
+ 2. Top 50 P&E Leaderbpard 9M DFL Vested.
