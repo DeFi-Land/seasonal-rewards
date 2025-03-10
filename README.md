@@ -10,4 +10,9 @@
 
 ## Season 2 Rewards
  1. Top 50 F2P Leaderboard 2M DFL Vested.
- 2. Top 50 P&E Leaderbpard 9M DFL Vested.
+ 2. Top 50 P&E Leaderboard 9M DFL Vested.
+
+ 
+## Season 3 Rewards
+ 1. Top 50 F2P Leaderboard 2M DFL Vested.
+ 2. Top 50 P&E Leaderboard 9M DFL Vested.
